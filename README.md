@@ -20,10 +20,4 @@ pip install -r requirements.txt
 <!-- Set the path for test and train folders. -->
 
 <!-- Follow the steps in cmd for applying  -->
-```
-!pip install -qr https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
 
-!git clone https://github.com/ultralytics/yolov5.git
-```
-<!-- You need to restart the kernal after performing this steps 
-Note: this code is also written in main.ipynb dont run it if u have already done it once. -->
